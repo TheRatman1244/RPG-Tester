@@ -1,0 +1,7 @@
+Halt, traveller! State your reason!
+-I have been sent by the king to deliver a message. Let me through.
+^And why should I?
+#1) This message is important.
+#2) Because I said so.
+1Then you shall pass through.
+2Quiet your tongue! Be gone!
